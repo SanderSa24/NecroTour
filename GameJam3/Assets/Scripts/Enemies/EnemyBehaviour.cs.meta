@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 03974c306bfe7fb4386449478d06630f
+timeCreated: 1513080990
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {instanceID: 0}
+  - Blood: {instanceID: 0}
+  - healthPickUp: {fileID: 1336465570728156, guid: 4184d45abb3d93c48956a761a4aa10b7,
+      type: 2}
+  - pistolAmmoPickUp: {fileID: 1926396296237580, guid: 2ad467ced3af2784f90e95bd07e61e4f,
+      type: 2}
+  - shotgunAmmoPickUp: {fileID: 1132761810052098, guid: 7c47a76498e2c3e4fb1a9bf19de922e1,
+      type: 2}
+  - machinegunAmmoPickUp: {fileID: 1476284903038608, guid: 0d4ef7c9bf102014cb7f62d2ad2ba90e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

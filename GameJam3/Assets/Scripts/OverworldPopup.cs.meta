@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 44bedc46df65af944a9ff0c72d88b1c1
+timeCreated: 1513700927
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - farmTexture: {fileID: 2800000, guid: 584766f36f8505d419df9ca51ed31de5, type: 3}
+  - suburbTexture: {fileID: 2800000, guid: 41e6c748e21c75f4a98eb6b76f4df910, type: 3}
+  - cityTexture: {fileID: 2800000, guid: 875f60fbb26c7fe4ea15f730f8e3b506, type: 3}
+  - pistolTexture: {fileID: 2800000, guid: 233d7cc0e5cf67a41a7fd589735c21e4, type: 3}
+  - shotgunTexture: {fileID: 2800000, guid: 4a37ab544e10f544e8ab739a3a5149a1, type: 3}
+  - machinegunTexture: {fileID: 2800000, guid: 800fcc7ffc4f01d4886f3fb4c5ea888d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
